@@ -13,6 +13,8 @@ to ensure the quality of source code
 ### Screenshorts
 ![Source code and Unit Test](https://github.com/tana1908/math-ulti/blob/master/screenshots/Screenshot%202024-06-04%20114110.png)
 
+[![Math Utility Maven Project (CI applied)](https://github.com/tana1908/math-ulti/actions/workflows/ci-script.yml/badge.svg)](https://github.com/tana1908/math-ulti/actions/workflows/ci-script.yml)
+
 #### Connect me via: ttanh150703@gmail.com
 
 ##### &#169; 2024 Trần Tuấn Anh
